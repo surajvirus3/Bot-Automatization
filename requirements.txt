@@ -3,3 +3,41 @@ created virtual environment CPython3.9.2.final.0-64 in 6350ms
   seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\Predator\AppData\Local\pypa\virtualenv)
     added seed packages: pip==21.0.1, setuptools==54.1.2, wheel==0.36.2
   activators BashActivator,BatchActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
+appdirs==1.4.4
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+distlib==0.3.1
+filelock==3.0.12
+fire==0.4.0
+flake8==3.9.0
+idna==2.10
+keyboard==0.13.5
+lxml==4.6.2
+mccabe==0.6.1
+pdf2docx==0.5.1
+phonenumbers==8.12.18
+psutil==5.8.0
+pycodestyle==2.7.0
+pyflakes==2.3.0
+PyMuPDF==1.18.9
+PyPDF2==1.26.0
+PyQt5==5.15.2
+pyqt5-plugins==5.15.2.2.1.0
+PyQt5-sip==12.8.1
+pyqt5-tools==5.15.2.3.0.2
+PyQt5Designer==5.14.1
+python-docx==0.8.10
+python-dotenv==0.16.0
+qt5-applications==5.15.2.2.1
+qt5-tools==5.15.2.1.0.1
+requests==2.25.1
+selenium==3.141.0
+six==1.15.0
+soupsieve==2.2.1
+speedtest-cli==2.1.2
+tabulate==0.8.9
+termcolor==1.1.0
+urllib3==1.26.4
+virtualenv==20.4.3
