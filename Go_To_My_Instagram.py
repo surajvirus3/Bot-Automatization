@@ -28,14 +28,3 @@ searchbar.send_keys("\n")
 # Click on Instagram link and accept cookies
 browser.find_element_by_xpath('//*[@id="rso"]/div[1]/div[1]/div/div[1]/a/h3').click()
 browser.find_element_by_xpath('/html/body/div[2]/div/div/div/div[2]/button[1]').click()
-
-
-""" - Sites: - 
-
-https://m.notebooksbilliger.de
-https://www.mediamarkt.de
-https://www.saturn.de
-Amazon.de
-Otto.de
-https://www.caseking.de/pc-komponenten/grafikkarten/nvidia
-"""
